@@ -1,14 +1,16 @@
-{
-"id": "00018",
-"alvo_id": "ATINHMT01VNMMDCP"
-}
+[
+  {
+    "id": "00018",
+    "alvo_id": "ATINHMT01VNMMDCP"
+  }
 
-{
-"id": "66018",
-"alvo_id": "5ZVOEPMJUI4MB4EN"
-}
+  {
+      "id": "66018",
+      "alvo_id": "5ZVOEPMJUI4MB4EN"
+  }
 
-{
-"id": "66007",
-"alvo_id": "F2KEU5L7EHYSYFTT"
-}
+  {
+    "id": "66007",
+    "alvo_id": "F2KEU5L7EHYSYFTT"
+  }
+]
