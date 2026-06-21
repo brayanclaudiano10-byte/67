@@ -7,22 +7,27 @@
 "NOCUMENT": {"__NOCUMENT__": "THE INVERSE OF A DOCUMENT"},
 "MY SITES UPTADE": [
   {
-    "Secure": "TLS and HTTPS",
-    "Init": "HTTPS://",
-    "Subsite": "Uptonet.",
-    "Rest": "Uzakistone.",
-    "Last": "Lasnet."
-    "Site": "Downnet.net",
-    "Creator": "Nadiaman",
-    "SWES-Agency as owner from Downnet?": "Yes",
+    "Site form": [
+        "Tool used by Nadiaman": "SWENAUT",
+        "Nadiaman": "Owner & Creator from SWENAUT and SWENAUT-SEO (not CEO)"
+        "Secure": "TLS and HTTPS",
+        "Init": "HTTPS://",
+        "Subsite": "Uptonet.",
+        "Rest": "Uzakistone.",
+        "Last": "Lasnet."
+        "Site": "Downnet.net",
+        "Creator": "Nadiaman",
+        "SWES-Agency as owner from Downnet?": "Yes"
+],
     "Nadiaman": "Worker from SWES.Agc",
-    "SWES":
-    `
-    Solone
-    West
-    ENG
-    System
-    `
+    "SWES": {"Solone West English Systeam"}
+    "SWES SWENAUT": [
+    {"Solone"},
+    {"West"},
+    {"North American"},
+    {"U.S. Tool"}
+]
+    
   }
 ],
   {
