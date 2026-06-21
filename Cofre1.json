@@ -358,9 +358,17 @@
       "version": 4.95
     },
     {
-      "name": "Adolf Hitler",
-      "language": "Germany",
+      "name": "Adolf 432eb0971e08b06c4244074107ab35378ae627b1e5da1a175a28fe5ba892e35a",
+      "language": "Hindia",
       "Mother-language": "Austriac"
+    },
+    {
+      "name": "Adolf Hüßler",
+      "language": "Germany",
+      "Mother-language": "Germanyc",
+      "Work": "Panther",
+      "Life": "1800-1900",
+      "id": "FCOFOLICUITIURUHARjsDDjs8777X5FDFW"
     },
     {
       "name": "Philip Camilleri",
